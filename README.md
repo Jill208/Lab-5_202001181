@@ -34,16 +34,19 @@ Tool Output:
 ![image](https://user-images.githubusercontent.com/83700057/225570057-bf8db995-b250-4538-a904-b682c2211600.png)
 
 (3) https://github.com/rishabh1005/Algorithmic-Toolbox/blob/master/week6_dynamic_programming2/2_partitioning_souvenirs/partition3.py
+
 Tool Output:
 
 ![image](https://user-images.githubusercontent.com/83700057/225570809-91ee6530-5346-49e0-a6a4-0efd0b96cb46.png)
 
 (4) https://github.com/rishabh1005/Algorithmic-Toolbox/blob/master/week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.py
+
 Tool Output:
 
 ![image](https://user-images.githubusercontent.com/83700057/225571548-9c6afada-36ec-439e-b552-2e05eb527f74.png)
 
 (5) https://github.com/rishabh1005/Algorithmic-Toolbox/blob/master/week5_dynamic_programming1/3_edit_distance/edit_distance.py
+
 Tool Output:
 
 ![image](https://user-images.githubusercontent.com/83700057/225571891-61226b93-7411-4e7a-8d77-2b641848d4a1.png)
